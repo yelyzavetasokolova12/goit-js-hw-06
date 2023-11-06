@@ -5,3 +5,5 @@ function getRandomHexColor() {
 }
 
 // для перевірки
+
+// для перевірки 2
